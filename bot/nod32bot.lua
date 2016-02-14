@@ -225,6 +225,7 @@ function create_config( )
     "leave_ban",
     "admin",
     "antilink",
+    "tooti",
     "linkpv",
     "share",
     "boobs",
